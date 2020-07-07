@@ -1,0 +1,22 @@
+{
+  "name": "js30",
+  "version": "1.0.0",
+  "description": "This is the beginning of a 2-day journey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sherwinlove/js30.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sherwinlove/js30/issues"
+  },
+  "homepage": "https://github.com/Sherwinlove/js30#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
